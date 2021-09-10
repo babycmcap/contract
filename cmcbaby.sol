@@ -6,13 +6,13 @@ pragma solidity 0.5.16;
 //
 // Name        : CMC.BABY
 // Symbol      : BABYCMC
-// Decimals    : 7
+// Decimals    : 18
 // Slippage    : 0%
 //
 // SOUCES INFO OF BABY COINMARKETCAP
 // Website     : https://www.cmc.baby
-// Presale     : https://www.cmc.baby/presale.html
 // Airdrop     : https://www.cmc.baby/airdrop.html
+// Presale     : https://www.cmc.baby/presale.html
 // Telegram    : https://t.me/BabyCMCap
 // Twitter     : https://twitter.com/BabyCMCap
 // Medium      : https://medium.com/@BabyCMC
