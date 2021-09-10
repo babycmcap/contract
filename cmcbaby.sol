@@ -12,6 +12,7 @@ pragma solidity 0.5.16;
 // SOUCES INFO OF BABY COINMARKETCAP
 // Website     : https://www.cmc.baby
 // Presale     : https://www.cmc.baby/presale.html
+// Airdrop     : https://www.cmc.baby/airdrop.html
 // Telegram    : https://t.me/BabyCMCap
 // Twitter     : https://twitter.com/BabyCMCap
 // Medium      : https://medium.com/@BabyCMC
@@ -24,7 +25,7 @@ pragma solidity 0.5.16;
 // Cir. Supply : 18,000,000 BABYCMC
 // Marketing   : 01,000,000 BABYCMC
 // Dev. Team   : 01,000,000 BABYCMC
-// For Listing : 01,000,000 BABYCMC
+// For Airdrop : 01,000,000 BABYCMC
 // Liquidity   : 07,000,000 BABYCMC
 //
 // REFERRAL SALE ON PRESALE
